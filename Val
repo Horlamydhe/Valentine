@@ -74,7 +74,7 @@
     noBtn.addEventListener("click", moveNo);
 
     function yesClicked() {
-      alert("Yay!! 💕 Thank you for being the mother of my kids. I LOVE YOU 🥰");
+      alert("Yay!! 💕 Thank you for being the mother of my kids. I LOVE YOU Rofiat 🥰");
     }
   </script>
 
